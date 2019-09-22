@@ -2,7 +2,7 @@
 
 <p float="center">
 
-![Image](https://github.com/illusi03/RN_CashierApp/blob/master/Screenshots/GIF_App_Cashier.gif)
+![Image](https://github.com/rakakeak/simple-foreign-exchange/blob/master/src/gif/Hnet-image.gif)
 
 ## Installation & Configuration
 Follow these step to install
